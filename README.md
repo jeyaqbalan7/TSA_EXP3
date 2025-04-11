@@ -1,6 +1,6 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-### name : KARTHIKEYAN R
-### Register Number : 212222240045
+### name : Jeyabalan T
+### Register Number : 212222240040
 ### Date: 
 
 ### AIM:
